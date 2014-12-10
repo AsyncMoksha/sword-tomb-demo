@@ -1,5 +1,5 @@
 ## Sword Tomb (demo)
-===
+
 
 This is a demo for a new way of Object Manipulation in Virtual Reality environment.
 
